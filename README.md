@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is Alex Bucksey and i'm hoping to be a coding whiz in the near future!
 
 <!--
 **Buxsea/Buxsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
